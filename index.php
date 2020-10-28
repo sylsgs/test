@@ -1,6 +1,6 @@
 <?php
 
-ehco 111;
+echo 111;
 echo '<br />';
 echo 222;
 
